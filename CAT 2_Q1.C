@@ -19,7 +19,7 @@ struct employee {
   int main () {
        strcpy(employee1. name,"John Doe");
        employee1.ID=12345;
-       strcpy (employee1.department,"Human Resource");
+       strcpy (employee1.department,"Human Resources");
        employee1.salary=55000.50;
        strcpy(employee1.email,"john.doe@company.com");
        
